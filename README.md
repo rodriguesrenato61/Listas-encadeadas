@@ -6,7 +6,7 @@ O programa deverá ter as seguintes funcionalidades:
 1 - adicionar registro
 
 2 - exibir todos os registros
-, 
+
 3 - buscar registros (pelo id, pelo nome e pela idade)
 
 4 - alterar registro (pelo id)
