@@ -1,5 +1,5 @@
 # Listas encadeadas
-
+Construindo uma lista encadeada em Linguagem C.
 Elaborar um programa em linguagem C que usa alocação dinâmica para implementação de uma lista encadeada que contém registros do tipo pessoa com os seguintes atributos: id, nome, idade, sexo e altura.
 O programa deverá ter as seguintes funcionalidades:
 1 - adicionar registro, 
