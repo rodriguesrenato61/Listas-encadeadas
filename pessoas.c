@@ -242,7 +242,7 @@ void alterar_pessoa(Pessoa* pessoas, int indice){
 						erro = 0;
 					break;
 					default:
-						printf("\Opcao invalida, digite novamente: ");
+						printf("\nOpcao invalida, digite novamente: ");
 						scanf("%i", &opc);
 					break;
 				}
